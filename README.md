@@ -3,7 +3,7 @@ Here you will find the most useful scripts I commonly use.
 
 ## git-commit-authorship-changer
 
-1. Copy the content under the git-commit-authorship-changer file;
+1. Copy the content under the `scr/git-commit-authorship-changer` file;
 2. Paste it to a temp file
 3. Replace the sample data into the `OLD_EMAIL`, `CURRENT_NAME`, `CURRENT_EMAIL` variables with your actual data;
 4. Copy back the updated contend;
